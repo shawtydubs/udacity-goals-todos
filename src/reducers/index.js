@@ -1,6 +1,6 @@
 import {combineReducers} from 'redux';
 
-import goals from '.goals';
+import goals from './goals';
 import loading from './loading';
 import todos from './todos';
 
